@@ -1,0 +1,22 @@
+/* Основні стилі для сторінок */
+
+/* Стилі для заголовка */
+#main-heading {
+  color: #333;
+  font-family: Arial, sans-serif;
+}
+
+/* Стилі для фотографії */
+#my-photo {
+  width: 200px;
+  height: auto;
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
+
+/* Стилі для інформації про мене */
+.bio-info {
+  font-family: Georgia, serif;
+  font-size: 16px;
+  line-height: 1.6;
+}
